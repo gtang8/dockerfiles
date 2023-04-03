@@ -6,8 +6,8 @@ window.config = {
   menuItem: [
     {
       title: '首页',
-      link: '/',
-      target: '',
+      link: 'https://sub.henhao.cf',
+      target: '_blank',
     },
     {
       title: '短链接',
