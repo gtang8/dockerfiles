@@ -1,5 +1,6 @@
 window.config = {
   siteName: 'Subconverter Web',
+ # apiUrl: 'http://127.0.0.1:25500',
   apiUrl: 'http://127.0.0.1:25500',
   shortUrl: 'https://s.ops.ci',
   menuItem: [
